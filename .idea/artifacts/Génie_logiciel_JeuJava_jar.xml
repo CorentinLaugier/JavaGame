@@ -1,9 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="jar" name="Génie logiciel_JeuJava:jar">
-    <output-path>$PROJECT_DIR$/classes/artifacts/Génie_logiciel_JeuJava_jar</output-path>
-    <root id="archive" name="Génie logiciel_JeuJava.jar">
-      <element id="module-output" name="Génie logiciel_JeuJava" />
-      <element id="archive" name="jeu.jar" />
-    </root>
-  </artifact>
-</component>
